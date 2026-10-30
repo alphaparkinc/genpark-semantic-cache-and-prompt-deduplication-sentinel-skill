@@ -1,0 +1,11 @@
+{
+  "name": "genpark-semantic-cache-and-prompt-deduplication-sentinel-skill",
+  "version": "1.0.0",
+  "description": "Evaluates prompt similarity via n-gram shingling, token hashing, and min-hash signatures to serve deterministic cached agent responses and eliminate redundant LLM calls",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
